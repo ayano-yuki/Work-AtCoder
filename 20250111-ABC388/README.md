@@ -26,9 +26,12 @@ GFはまだ早いので、ABCDEの5完を安定して出来る事を目標に使
 
 # 勉強用
 ## AtCoder
--D
+- D
   - https://atcoder.jp/contests/abc388/submissions/61603571
   - https://atcoder.jp/contests/abc388/editorial/11909
 - E
   - https://atcoder.jp/contests/abc388/submissions/61604583
   - https://atcoder.jp/contests/abc388/submissions/61604156
+
+## 記事
+- https://qiita.com/hyouri/items/6c5184ecce7bff57216e
