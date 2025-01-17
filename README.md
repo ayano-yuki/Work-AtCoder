@@ -31,3 +31,6 @@ AtCoder関係の情報をメモる場所
    - 人の到達できる実質的な最高到達地点
 
 - [AtCoder（競技プログラミング）の色・ランクと実力評価、問題例](https://chokudai.hatenablog.com/entry/2019/02/11/155904)
+
+## AtCoderの勉強で使えそう
+- [絶対にAtCoderで青コーダーになる！典型別 良問500選](https://note.com/rikimarublack/n/n3074b0955e95)
