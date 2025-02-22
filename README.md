@@ -34,3 +34,5 @@ AtCoder関係の情報をメモる場所
 
 ## AtCoderの勉強で使えそう
 - [絶対にAtCoderで青コーダーになる！典型別 良問500選](https://note.com/rikimarublack/n/n3074b0955e95)
+- [競プロをPythonでやるときのチートシート](https://qiita.com/hidehic0/items/59116d9811ad4d03380e)
+- [Goの競技プログラミングチートシート](https://qiita.com/Rqixy/items/61f932985784f2b5f135)
